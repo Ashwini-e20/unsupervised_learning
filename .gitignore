@@ -1,0 +1,13 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+*.pkl 
+*.pth 
+models/ 
+data/ 
+.env 
+.ipynb_checkpoints/ 
+*.zip 
+*.tar.gz 
+.vs/ 
+*.log 

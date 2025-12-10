@@ -22,5 +22,6 @@ It uses:
 ### Full Classification View  
 ![Classification](output2.jpeg)
 
-
+### App Home + Metrics  
+![Home](output3.jpeg)
 

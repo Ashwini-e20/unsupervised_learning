@@ -1,7 +1,9 @@
-# 🐱🐶 Unsupervised Cat vs Dog Classifier  
+# Unsupervised Cat vs Dog Classifier  
 ### ResNet50 Embeddings + PCA + KMeans + Streamlit UI
 
-This project performs **unsupervised learning** to separate cat vs dog images without any labeled dataset.  
+This project performs **unsupervised learning** to separate cat vs dog images without any labeled dataset, it stores the detected images in respective folders.
+
+
 It uses:
 
 - Pretrained **ResNet50** for feature extraction  
@@ -25,5 +27,4 @@ It uses:
 
 ---
 
-## 📁 Project Structure
 
